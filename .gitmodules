@@ -1,0 +1,3 @@
+[submodule "VeryNginx"]
+	path = VeryNginx
+	url = git@github.com:alexazhou/VeryNginx.git
